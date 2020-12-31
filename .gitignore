@@ -1,0 +1,7 @@
+venv
+.idea
+out
+dist
+__pycache__
+day_1/__pycache__
+day_2/__pycache__
