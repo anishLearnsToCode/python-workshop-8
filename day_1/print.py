@@ -1,0 +1,7 @@
+print('hello world!', end=' ** ')
+print('this is new', end='\n\n')
+print('this is my', end='-----*****------')
+print('oh my!!\n\n\n')
+print('I', end='\t')
+print('am', end='  000  ')
+print('batman')
