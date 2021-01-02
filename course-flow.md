@@ -58,8 +58,9 @@
 
 ## Packages
 1. Inbuilt Functions
-1. Inbuilt Packages
+1. The Math Package
+1. The Random Package
 
 ## Capstone Project
-1. Hangman CLI Game 
-1. Alien Invasion GUI Game
+1. [Hangman CLI Game](https://github.com/anishLearnsToCode/hangman-cli-game) 
+1. [Alien Invasion GUI Game](https://github.com/anishLearnsToCode/alien-invasion)

@@ -150,6 +150,11 @@ python hello_world.py
 - [Factorial Using For Loop](day_1/factorial_for_loop.py)
 - [Loop Control Flow Statements](day_1/loop_control_flow_statements.py)
 
+<details>
+    <summary><b>Remembering Difference Between Parameters and Arguments</b></summary>
+    <img src="assets/argument-vs-parameter.png" alt="parameter-vs-argument"/>
+</details>
+
 ### Sample Questions
 | Question | Solution Link |
 |:---------|:--------:|
