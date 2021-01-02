@@ -124,6 +124,14 @@ python hello_world.py
 
 ## [Day 1](day_1)
 ### Topics Covered
+- [Print Function](day_1/print.py)
+- [Strings](day_1/strings.py)
+- [Variables](day_1/variables.py)
+- [Naming Convention]()
+- [Comments](day_1/comments.py)
+- [Taking User Input](day_1/user_input.py)
+- [Taking Integer Input](day_1/integer_input.py)
+- [Arithmetic Operators](day_1/arithmetic_operator.py)
 
 ### Sample Questions
 | Question | Solution Link |
