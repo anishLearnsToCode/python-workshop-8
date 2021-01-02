@@ -6,8 +6,8 @@
 1. Variables
 1. Comments
 1. Data Types
-1. taking User Input
-1. taking Integer Input
+1. Taking User Input
+1. Taking Integer Input
 
 ## Operators
 1. Arithmetic Operators
@@ -17,7 +17,9 @@
 ## Conditional Logic
 1. Truthy Falsy Values 
 1. If Else Statements
+1. Finding If Number is Odd/Even 
 1. Ternary Operator 
+1. [Hackerrank If Else Question](https://www.hackerrank.com/challenges/py-if-else/problem)
 
 ## Loops
 1. While Loop
