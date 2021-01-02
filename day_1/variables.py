@@ -6,6 +6,9 @@ firstName = 'anish'
 a = 10
 b = -5
 c = 45
+print(a)
+a = a + 5
+print(a)
 rows = 100
 # print(type(rows))
 # print(rows)
