@@ -11,7 +11,7 @@
 </details>
 
 📺 [Workshop Link (Zoom)](https://us02web.zoom.us/j/85644374903?pwd=UVFITkoreE9jLzhsT0hGMUhSUE0vUT09) |
-📽 [Class Recordings (Coming Soon!)]() |
+📽 [Class Recordings](https://photos.app.goo.gl/tVPitwjn2x99dMbcA) |
 🌊 [Course Flow](course-flow.md)
 
 ## Index
