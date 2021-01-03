@@ -176,6 +176,21 @@ python hello_world.py
 ## [Day 2](day_2)
 
 ### Topics Covered
+- [Combinatorics Functions (Factorial, Permutation, Combination)](day_2/combinatorics.py)
+- [Calculator Program (Importing Functions)](day_2/calculator_program.py)
+- [Lists](day_2/lists.py)
+- [Complex Lists](day_2/complex_lists.py)
+- [Iterating Over Lists](day_2/list_iterate.py)
+- [List Comprehension](day_2/list_comprehension.py)
+- [Taking List Input](day_2/taking_list_input.py)
+- [Map Operator](day_2/map_operator.py)
+- [Tuples](day_2/tuples.py)
+- [Dictionary](day_2/dictionary.py)
+- [Dictionary Iterate](day_2/dictionary_iterate.py)
+- [Frequency Counter](day_2/frequency_counter.py)
+- [Inbuilt Functions](day_2/inbuilt_functions.py)
+- [Math Package](day_2/math_package.py)
+- [Random Package](day_2/random_package.py)
 
 ### Sample Questions
 | Question | Solution Link |
