@@ -1,3 +1,5 @@
+a = 10
+
 def factorial(n: int) -> int:
     result = 1
     for i in range(1, n + 1):
@@ -18,5 +20,3 @@ def permutation(n: int, r: int) -> int:
 # combination nCr = nPr / r!
 def combination(n: int, r: int) -> int:
     return permutation(n, r) // factorial(r)
-
-print(permutation(4, 2))
